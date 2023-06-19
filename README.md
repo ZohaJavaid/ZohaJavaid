@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zoha Javaid</h1>
-<h3 align="center">Software Quality Assurance Engineer</h3>
+<h1 align="center">Software Quality Assurance Engineer</h1>
 
 - 🌱 I’m currently learning **Cypress.io**
 
